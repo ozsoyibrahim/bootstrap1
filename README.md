@@ -4,7 +4,7 @@
 
 <a href="https://luminous-faun-5be01b.netlify.app/">Please, Click to view th website</a>
 
-<br> <br>
+<br>
 
 ![](img/screen.gif)
 
